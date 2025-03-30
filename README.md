@@ -39,13 +39,7 @@ At FinIQ, I spearheaded projects for over 11 multinational banks, focusing on th
 ### DevOps & Cloud  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
 
-### Soft Skills ✨  
-- ⏳ **Time Management**: Effective handling of multiple projects and deadlines.  
-- 🤝 **Collaboration**: Strong ability to work in cross-functional teams.  
-- 🗣 **Communication**: Excellent verbal and written communication skills.  
-- 🔥 **Leadership**: Experience leading teams and coordinating tasks efficiently.  
-- 🧠 **Problem-Solving**: Strong analytical skills to tackle complex challenges.  
-- 🚀 **Adaptability**: Quick learner, flexible in adopting new technologies.
+
 
 
 
