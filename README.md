@@ -25,7 +25,40 @@ As a QA Engineer at Tibco, I worked on high-profile projects for platforms such 
 **Aug 2021 - Dec 2021**  
 At FinIQ, I spearheaded projects for over 11 multinational banks, focusing on the integration and maintenance of the Financial Information Exchange (FIX) protocol. I implemented key features that led to a 25% performance improvement, using Core Java and Eclipse. Additionally, I applied innovative algorithms in Java to enhance functionalities related to bonds, equity, and open-close operations, while conducting UI testing that resulted in a 40% increase in customer satisfaction.
 
+### Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 
+### Development  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)  
+
+### Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+
+### DevOps & Cloud  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+
+### Soft Skills ✨  
+- ⏳ **Time Management**: Effective handling of multiple projects and deadlines.  
+- 🤝 **Collaboration**: Strong ability to work in cross-functional teams.  
+- 🗣 **Communication**: Excellent verbal and written communication skills.  
+- 🔥 **Leadership**: Experience leading teams and coordinating tasks efficiently.  
+- 🧠 **Problem-Solving**: Strong analytical skills to tackle complex challenges.  
+- 🚀 **Adaptability**: Quick learner, flexible in adopting new technologies.
 
 
 
