@@ -41,6 +41,9 @@ At FinIQ, I spearheaded projects for over 11 multinational banks, focusing on th
 ### DevOps & Cloud  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
 
+![Mugdha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugdhajoshi22&show_icons=true&theme=radical)
+
+
 
 
 
