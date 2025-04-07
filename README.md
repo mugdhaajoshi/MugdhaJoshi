@@ -41,6 +41,28 @@ At FinIQ, I spearheaded projects for over 11 multinational banks, focusing on th
 ### DevOps & Cloud  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
 
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Software-Engineering-2024-Group/BurnoutExtreme">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Software-Engineering-2024-Group&repo=BurnoutExtreme&theme=default" />
+  </a>
+  <a href="https://github.com/Software-Engineering-2024-Group/my-cookbook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Software-Engineering-2024-Group&repo=my-cookbook&theme=default" />
+  </a>
+  <a href="https://github.com/varundeepakgudhe/Hack_NC_25">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=varundeepakgudhe&repo=Hack_NC_25&theme=default" />
+  </a>
+  <a href="https://github.com/davehague/job_scraper_web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davehague&repo=job_scraper_web&theme=default" />
+  </a>
+  <a href="https://github.com/mugdhaajoshi/Movie-Recommendation-GNN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mugdhaajoshi&repo=Movie-Recommendation-GNN&theme=default" />
+  </a>
+  <a href="https://github.com/mugdhaajoshi/WolfParking_DBMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mugdhaajoshi&repo=WolfParking_DBMS&theme=default" />
+  </a>
+</p>
 
 
 
